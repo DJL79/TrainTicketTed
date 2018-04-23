@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Train Ticket Ted</string>
+    <string name="txtMsg_main">Please enter travel ticket prices below</string>
+    <string name="dailyprice">sharedpreferences.dailyprice</string>
+    <string name="weeklyprice">sharedpreferences.weeklyprice</string>
+    <string name="monthlyprice">sharedpreferences.monthlyprice</string>
+</resources>
